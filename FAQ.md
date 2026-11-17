@@ -78,9 +78,9 @@ These are development directions, not a guarantee that every feature is currentl
 
 Use the following official channels:
 
-- **Website:** https://gbitcoin2.github.io/GBTC-website/
+- **Website:** https://gbitcoin2.github.io/GBTC/
 - **X:** https://x.com/GBitcoin2
-- **GitHub:** https://github.com/GBitcoin2/GBTC-website
+- **GitHub:** https://github.com/GBitcoin2/GBTC
 
 ## 13. How can I report an issue or ask a question?
 
