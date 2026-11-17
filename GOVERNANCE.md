@@ -87,6 +87,6 @@ All project-related statements should be accurate, responsible, and consistent w
 
 **GBitcoin (GBTC)**
 
-Official Website: https://gbitcoin2.github.io/GBTC-website/
+Official Website: https://gbitcoin2.github.io/GBTC/
 
 Official X: https://x.com/GBitcoin2
