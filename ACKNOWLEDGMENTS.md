@@ -36,5 +36,5 @@ Acknowledgment does not imply endorsement, partnership, ownership, or affiliatio
 ---
 
 **GBitcoin (GBTC)**  
-Official Website: https://gbitcoin2.github.io/GBTC-website/  
+Official Website: https://gbitcoin2.github.io/GBTC/  
 Official X: https://x.com/GBitcoin2
