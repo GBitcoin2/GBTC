@@ -49,5 +49,5 @@ Always verify project information through official sources and exercise caution 
 ---
 
 **GBitcoin (GBTC)**  
-Official Website: https://gbitcoin2.github.io/GBTC-website/  
+Official Website: https://gbitcoin2.github.io/GBTC/  
 Official X: https://x.com/GBitcoin2
