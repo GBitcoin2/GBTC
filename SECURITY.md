@@ -98,7 +98,7 @@ No bug bounty program or financial reward is implied by this policy unless separ
 ## 10. Official Project Resources
 
 Website:
-https://gbitcoin2.github.io/GBTC-website/
+https://gbitcoin2.github.io/GBTC/
 
 Official X:
 https://x.com/GBitcoin2
