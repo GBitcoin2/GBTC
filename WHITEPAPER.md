@@ -170,7 +170,7 @@ Its broader direction is based on the principle that independent projects can pr
 
 ## Official Resources
 
-- Website: https://gbitcoin2.github.io/GBTC-website/
+- Website: https://gbitcoin2.github.io/GBTC/
 - X: https://x.com/GBitcoin2
 - Network: GRAM
 - Token: GBitcoin (GBTC)
