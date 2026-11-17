@@ -94,6 +94,6 @@ Any material changes should be reflected clearly to maintain accurate and transp
 
 One Protocol. Multiple Projects. Shared Growth.
 
-Official Website: https://gbitcoin2.github.io/GBTC-website/
+Official Website: https://gbitcoin2.github.io/GBTC/
 
 Official X: https://x.com/GBitcoin2
