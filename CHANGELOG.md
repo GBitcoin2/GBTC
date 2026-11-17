@@ -41,5 +41,5 @@ Only completed and verifiable changes should be recorded in this changelog.
 
 **Project:** GBitcoin (GBTC)  
 **Network:** GRAM  
-**Official Website:** https://gbitcoin2.github.io/GBTC-website/  
+**Official Website:** https://gbitcoin2.github.io/GBTC/  
 **Official X:** https://x.com/GBitcoin2
