@@ -87,5 +87,5 @@ The latest version published in the official project repository takes precedence
 ---
 
 **GBitcoin (GBTC)**  
-Official Website: https://gbitcoin2.github.io/GBTC-website/  
+Official Website: https://gbitcoin2.github.io/GBTC/  
 Official X: https://x.com/GBitcoin2
