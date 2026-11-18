@@ -1,226 +1,349 @@
 
 <div align="center">
 
-<br>
+<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="130" alt="GBTC Logo">
 
-<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="144" alt="GBTC Official Logo">
+# G B T C
 
-# GBTC
+### GBitcoin
 
-### GBitcoin · Unified Projects Protocol
+**THE CORE OF A CONNECTED DIGITAL ASSET ECOSYSTEM**
 
-**ONE CORE. MULTIPLE ASSETS. INTERCONNECTED LIQUIDITY. SHARED GROWTH.**
-
-A multi-asset ecosystem vision built around a central digital asset, connecting liquidity infrastructure, independent projects, and digital markets through a unified framework.
+*One Core. Multiple Assets. Interconnected Liquidity. Shared Growth.*
 
 <br>
 
 <a href="https://gbitcoin2.github.io/GBTC/">
-<img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-Explore%20GBTC-356BFF?style=for-the-badge" alt="GBTC Official Website">
+  <img src="https://img.shields.io/badge/EXPLORE%20GBTC-Official%20Website-356BFF?style=for-the-badge" alt="Official Website">
 </a>
-
 <a href="https://x.com/GBitcoin2">
-<img src="https://img.shields.io/badge/𝕏_ OFFICIAL_X-Follow%20GBTC-111111?style=for-the-badge&logo=x&logoColor=white" alt="GBTC Official X">
+  <img src="https://img.shields.io/badge/FOLLOW%20GBTC-Official%20X-111111?style=for-the-badge&logo=x&logoColor=white" alt="Official X">
 </a>
-
 <a href="https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB">
-<img src="https://img.shields.io/badge/DYOR.io-TOKEN%20EXPLORER-725CFF?style=for-the-badge" alt="GBTC on DYOR">
+  <img src="https://img.shields.io/badge/VIEW%20TOKEN-DYOR.io-725CFF?style=for-the-badge" alt="DYOR Explorer">
 </a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/NETWORK-GRAM-356BFF?style=flat-square">
-<img src="https://img.shields.io/badge/TOKEN-GBTC-8B5CFF?style=flat-square">
-<img src="https://img.shields.io/badge/TOTAL%20SUPPLY-21M-62DCFF?style=flat-square">
+<img src="https://img.shields.io/badge/TICKER-GBTC-8B5CFF?style=flat-square">
+<img src="https://img.shields.io/badge/SUPPLY-21%2C000%2C000-62DCFF?style=flat-square">
 <img src="https://img.shields.io/badge/DECIMALS-9-64748B?style=flat-square">
-
-<br><br>
-
-[Website](https://gbitcoin2.github.io/GBTC/) · [Whitepaper](WHITEPAPER.md) · [Tokenomics](TOKENOMICS.md) · [DYOR Explorer](https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB)
 
 </div>
 
 ---
 
+## A NEW WAY TO CONNECT DIGITAL ASSETS
+
+Digital assets are often developed independently, with separate markets, liquidity, and ecosystems.
+
+**GBTC introduces a broader vision: a connected environment where independent projects and digital assets can establish relationships through shared liquidity infrastructure.**
+
+At the center of this vision is **GBTC**, the core asset around which a multi-asset ecosystem can develop.
+
+The goal is not to replace independent projects, but to create opportunities for them to connect, interact, and grow within a broader framework.
+
+---
+
+## THE GBTC ECOSYSTEM
+
 <div align="center">
 
-## THE CORE OF A CONNECTED DIGITAL ASSET ECOSYSTEM
-
-*Bringing assets together through shared infrastructure and interconnected liquidity.*
+### ONE CORE. A NETWORK OF ASSETS.
 
 </div>
 
-## 01 — Introduction
+<table>
+<tr>
+<td align="center" width="25%">
 
-**GBTC (GBitcoin)** is a multi-asset ecosystem initiative designed around a central digital asset and an interconnected liquidity framework.
+### ◈
 
-The project envisions an infrastructure where multiple digital assets, independent blockchain projects, and Web3 services can establish relationships through liquidity pools, trading pairs, and integrated markets.
+**CORE ASSET**
 
-At the center of this vision is **GBTC**, intended to serve as the core asset around which liquidity relationships, asset connectivity, and ecosystem integrations can develop.
+GBTC as the central asset of the ecosystem.
 
-GBTC is built on the idea that digital assets can retain their individual identities while participating in a broader and more connected environment.
+</td>
+<td align="center" width="25%">
 
-Its direction is focused on infrastructure, connectivity, and shared ecosystem development.
+### ◇
 
-## 02 — The Vision
+**LIQUIDITY**
 
-<div align="center">
+Connected pools and trading pairs.
 
-### FROM INDIVIDUAL ASSETS TO A CONNECTED ECOSYSTEM
+</td>
+<td align="center" width="25%">
 
-</div>
+### ⬡
 
-Digital assets often operate within separate markets and independent liquidity environments.
+**MULTI-ASSET**
 
-GBTC explores a different approach: a shared infrastructure where multiple assets can establish liquidity relationships and participate in an interconnected digital economy.
+Independent assets within a shared framework.
 
-The long-term vision is centered on:
+</td>
+<td align="center" width="25%">
 
-- A central ecosystem asset.
-- Multiple connected digital assets.
-- Shared liquidity infrastructure.
-- Integrated trading markets.
-- Independent project participation.
-- Expanded digital asset utility.
-- Future network connectivity.
+### ✧
 
-The objective is to develop a framework in which connectivity becomes a foundation for collaboration and ecosystem growth.
+**UTILITY**
 
-## 03 — The Ecosystem Framework
+Services, integrations, and applications.
 
-The GBTC vision is structured around four complementary pillars.
+</td>
+</tr>
+</table>
 
-### ◈ 01. CENTRAL ASSET
-
-**GBTC — The Core**
-
-GBTC is designed to serve as the central asset of the ecosystem, providing a common foundation around which liquidity relationships, trading pairs, and integrations can develop.
-
-### ◈ 02. INTERCONNECTED LIQUIDITY
-
-**Liquidity Pools · Trading Pairs · Markets**
-
-A framework intended to connect GBTC with multiple digital assets through liquidity pools and trading pairs, supporting broader market relationships.
-
-### ◈ 03. MULTI-ASSET CONNECTIVITY
-
-**Independent Assets · Shared Infrastructure**
-
-The ecosystem aims to bring different assets into a connected environment while preserving the identity, objectives, and communities of participating projects.
-
-### ◈ 04. INTEGRATED UTILITY
-
-**Services · Integrations · Applications**
-
-A broader development direction focused on exploring additional digital services, ecosystem integrations, trading access, and future applications.
-
-> These pillars describe the intended ecosystem architecture. Planned capabilities should not be interpreted as operational until implemented and officially announced.
-
-## 04 — Infrastructure Concept
+### How the concept connects
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 **GBTC**
 
-*Central Ecosystem Asset*
+<br>
 
-↓
+<sub>Central Ecosystem Asset</sub>
 
-**LIQUIDITY INFRASTRUCTURE**
+</td>
+</tr>
+<tr>
+<td align="center">⬇</td>
+</tr>
+<tr>
+<td align="center">
 
-*Pools & Trading Pairs*
+**SHARED LIQUIDITY INFRASTRUCTURE**
 
-↓
+<br>
 
-**MULTIPLE DIGITAL ASSETS**
+<sub>Liquidity Pools · Trading Pairs</sub>
 
-*Connected Market Relationships*
+</td>
+</tr>
+<tr>
+<td align="center">⬇</td>
+</tr>
+<tr>
+<td align="center">
 
-↓
+**CONNECTED DIGITAL ASSETS**
 
-**ECOSYSTEM INTEGRATIONS**
+<br>
 
-*Services & Utility*
+<sub>Independent Projects · Multiple Assets</sub>
 
-↓
+</td>
+</tr>
+<tr>
+<td align="center">⬇</td>
+</tr>
+<tr>
+<td align="center">
 
-**LONG-TERM DEVELOPMENT**
+**ECOSYSTEM DEVELOPMENT**
 
-*Expanded Connectivity*
+<br>
+
+<sub>Integrations · Services · Utility</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-This conceptual structure illustrates the intended relationship between GBTC, liquidity infrastructure, connected assets, and future ecosystem integrations.
+This is the intended ecosystem architecture. Individual components and integrations remain subject to development and implementation.
 
-It represents the project's development direction, not a claim that every component is currently deployed.
+---
 
-## 05 — Strategic Infrastructure Areas
+## THE FOUR PILLARS
 
-| Area | Direction |
+### 01 / Central Asset
+
+**GBTC — The Core**
+
+GBTC is designed to serve as the central asset of the ecosystem, providing a common foundation for future liquidity relationships, trading pairs, and integrations.
+
+### 02 / Interconnected Liquidity
+
+**Pools. Pairs. Markets.**
+
+The project aims to develop liquidity relationships between GBTC and multiple digital assets, creating a framework for broader market connectivity.
+
+### 03 / Multi-Asset Connectivity
+
+**Independent Projects. Shared Infrastructure.**
+
+Different projects can retain their own identity, objectives, and communities while participating in a connected digital asset environment.
+
+### 04 / Integrated Utility
+
+**Services. Applications. Ecosystem Integrations.**
+
+The long-term direction includes exploring additional services, applications, trading access, and integrations that can expand the utility of the ecosystem.
+
+---
+
+## WHY GBTC?
+
+| Focus | Direction |
 |---|---|
-| Central Asset | Establishing GBTC as the ecosystem's core asset |
-| Liquidity | Developing interconnected liquidity relationships |
-| Trading | Supporting asset connectivity through trading pairs |
-| Integration | Exploring participation from independent projects |
-| Utility | Expanding practical ecosystem applications |
-| Connectivity | Exploring broader network opportunities |
+| Central Asset | A common ecosystem asset |
+| Shared Infrastructure | Connected liquidity foundations |
+| Asset Relationships | Trading pairs between digital assets |
+| Project Independence | Preserving individual project identities |
+| Ecosystem Utility | Exploring practical applications |
+| Future Connectivity | Opportunities across additional networks |
 
-## 06 — Network & Expansion
+**The underlying idea:** independent assets can remain independent while benefiting from a wider environment of connectivity and collaboration.
+
+---
+
+## NETWORK & DEVELOPMENT
+
+<details>
+<summary><strong>01 — Initial Network</strong></summary>
 
 GBTC begins its development within the **GRAM ecosystem**.
 
-The initial direction focuses on establishing the token identity and developing the foundations of the interconnected liquidity vision.
+The initial focus is on establishing the project's identity, token structure, documentation, and foundations for its interconnected liquidity vision.
 
-The longer-term vision includes exploring opportunities across additional blockchain networks.
+</details>
 
-Potential future development areas include:
+<details>
+<summary><strong>02 — Ecosystem Development</strong></summary>
+
+The development direction explores:
+
+- Interconnected liquidity infrastructure.
+- Relationships between multiple digital assets.
+- Trading pair opportunities.
+- Independent project integrations.
+- Additional ecosystem services.
+
+</details>
+
+<details>
+<summary><strong>03 — Future Expansion</strong></summary>
+
+Long-term opportunities may include:
 
 - Additional blockchain integrations.
 - Broader digital asset connectivity.
 - Expanded liquidity infrastructure.
-- Cross-network ecosystem opportunities.
-- Additional Web3 services.
+- Cross-network opportunities.
+- Additional Web3 applications.
 
-Multi-chain expansion remains a future development direction and is subject to technical implementation.
+Multi-chain expansion is a future direction and depends on technical development and implementation.
 
-## 07 — Token Overview
+</details>
+
+---
+
+## TOKEN PROFILE
 
 <div align="center">
 
-<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="76" alt="GBTC Token Logo">
+<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="82" alt="GBTC Token">
 
 ### GBitcoin
 
-**The Core Asset · GBTC**
+# GBTC
+
+**GRAM Network · Jetton**
 
 </div>
 
-| Property | Specification |
+| Specification | Details |
 |---|---|
 | Project Name | GBitcoin |
-| Token Symbol | GBTC |
+| Token Name | GBTC |
 | Network | GRAM |
-| Token Standard | Jetton |
+| Standard | Jetton |
 | Total Supply | 21,000,000 GBTC |
 | Decimals | 9 |
-| Public Circulation & Trading | 20,000,000 GBTC |
+| Public Allocation | 20,000,000 GBTC |
 | Team Allocation | 1,000,000 GBTC |
 
-### Token Distribution
+### TOKEN DISTRIBUTION
 
-| Allocation | Amount | Share |
-|---|---:|---:|
-| Public Circulation & Trading | 20,000,000 GBTC | 95.24% |
-| Team | 1,000,000 GBTC | 4.76% |
-| **Total** | **21,000,000 GBTC** | **100%** |
+<div align="center">
 
-### Supply Structure
+**21,000,000 GBTC — TOTAL SUPPLY**
 
-The GBTC token model is designed around a total supply of 21,000,000 tokens.
+</div>
 
-The intended issuance model does not include additional minting. The final non-mintable status must be consistent with the actual Jetton contract permissions.
+<table>
+<tr>
+<td width="75%">
 
-### Jetton Master Contract
+**PUBLIC CIRCULATION & TRADING**
+
+20,000,000 GBTC
+
+</td>
+<td align="right">
+
+**95.24%**
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://img.shields.io/badge/-%20-356BFF?style=flat-square" height="10">
+
+</td>
+</tr>
+<tr>
+<td>
+
+**TEAM ALLOCATION**
+
+1,000,000 GBTC
+
+</td>
+<td align="right">
+
+**4.76%**
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://img.shields.io/badge/-%20-8B5CFF?style=flat-square" height="10">
+
+</td>
+</tr>
+<tr>
+<td>
+
+**TOTAL**
+
+**21,000,000 GBTC**
+
+</td>
+<td align="right">
+
+**100%**
+
+</td>
+</tr>
+</table>
+
+### Supply Model
+
+The GBTC token model is based on a total supply of **21,000,000 GBTC**.
+
+The intended issuance model does not include additional minting. The final non-mintable status is subject to verification of the actual Jetton contract permissions.
+
+### JETTON MASTER ADDRESS
 
 ```text
 EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB
@@ -229,82 +352,143 @@ EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB
 <div align="center">
 
 <a href="https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB">
-<img src="https://storage.dyor.io/dapps/images/logo/1748270329/67069807.png" width="48" alt="DYOR.io Official Logo">
-<br>
-**VIEW GBTC ON DYOR.IO**
+<img src="https://storage.dyor.io/dapps/images/logo/1748270329/67069807.png" width="54" alt="DYOR Logo">
+
+**VERIFY GBTC ON DYOR.IO**
+
 </a>
 
 </div>
 
-## 08 — Development Direction
+---
 
-GBTC's development direction focuses on building the foundations of an interconnected digital asset ecosystem.
+## DEVELOPMENT PRINCIPLES
 
-| Development Focus | Objective |
+| Principle | Commitment |
 |---|---|
-| Project Foundation | Establishing identity and documentation |
-| Liquidity Infrastructure | Developing interconnected liquidity foundations |
-| Asset Connectivity | Exploring relationships between digital assets |
-| Ecosystem Utility | Exploring services and integrations |
-| Network Expansion | Investigating future multi-chain opportunities |
+| Transparency | Clear information and documentation |
+| Connectivity | Meaningful relationships between assets |
+| Independence | Respect for each project's identity |
+| Utility | Focus on practical ecosystem development |
+| Security | Responsible technical practices |
+| Sustainability | Structured long-term development |
 
-Development priorities may evolve as the project progresses. This section describes strategic direction rather than guaranteed delivery dates.
+---
 
-## 09 — Guiding Principles
+## PROJECT DOCUMENTATION
 
-| Principle | Approach |
-|---|---|
-| Transparency | Clear documentation and responsible communication |
-| Connectivity | Meaningful relationships between digital assets |
-| Independence | Respect for participating projects and their identities |
-| Utility | Focus on practical infrastructure and applications |
-| Security | Responsible technical development |
-| Sustainability | Long-term and structured ecosystem development |
+<table>
+<tr>
+<td width="35%">
 
-## 10 — Project Documentation
+**WHITEPAPER**
 
-Explore the official documentation.
+</td>
+<td>
 
-| Document | Description |
-|---|---|
-| [Whitepaper](WHITEPAPER.md) | Project vision and infrastructure architecture |
-| [Tokenomics](TOKENOMICS.md) | Token supply and distribution |
-| [Security](SECURITY.md) | Security disclosure policy |
-| [Contributing](CONTRIBUTING.md) | Contribution guidelines |
-| [License](LICENSE) | Repository license |
+Project vision, concept, and infrastructure architecture.
 
-Additional documentation may be added as the project develops.
+</td>
+<td align="center">
 
-## 11 — Official Links
+[Read ↗](WHITEPAPER.md)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**TOKENOMICS**
+
+</td>
+<td>
+
+Token supply and distribution structure.
+
+</td>
+<td align="center">
+
+[Read ↗](TOKENOMICS.md)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**SECURITY**
+
+</td>
+<td>
+
+Security policy and vulnerability disclosure.
+
+</td>
+<td align="center">
+
+[Read ↗](SECURITY.md)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**CONTRIBUTING**
+
+</td>
+<td>
+
+Guidelines for project contributions.
+
+</td>
+<td align="center">
+
+[Read ↗](CONTRIBUTING.md)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**LICENSE**
+
+</td>
+<td>
+
+Repository license and usage terms.
+
+</td>
+<td align="center">
+
+[Read ↗](LICENSE)
+
+</td>
+</tr>
+</table>
+
+---
+
+## OFFICIAL CHANNELS
 
 <div align="center">
 
-### EXPLORE GBTC
-
-<br>
-
 <a href="https://gbitcoin2.github.io/GBTC/">
-<img src="https://img.shields.io/badge/🌐_WEBSITE-GBTC%20Official%20Website-356BFF?style=for-the-badge" alt="Official Website">
+<img src="https://img.shields.io/badge/WEBSITE-GBTC%20Official-356BFF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<br><br>
-
 <a href="https://x.com/GBitcoin2">
-<img src="https://img.shields.io/badge/𝕏-Official%20X%20Account-111111?style=for-the-badge&logo=x&logoColor=white" alt="Official X">
+<img src="https://img.shields.io/badge/SOCIAL-Official%20X-111111?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://github.com/GBitcoin2/GBTC">
+<img src="https://img.shields.io/badge/SOURCE-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB">
-<img src="https://storage.dyor.io/dapps/images/logo/1748270329/67069807.png" width="36" alt="DYOR.io">
+<img src="https://storage.dyor.io/dapps/images/logo/1748270329/67069807.png" width="38" alt="DYOR Logo">
 <br>
-**DYOR.IO TOKEN EXPLORER**
-</a>
-
-<br><br>
-
-<a href="https://github.com/GBitcoin2/GBTC">
-<img src="https://img.shields.io/badge/GITHUB-Official%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+<strong>DYOR TOKEN EXPLORER</strong>
 </a>
 
 <br><br>
@@ -317,49 +501,53 @@ https://gbitcoin2.github.io/GBTC/
 
 https://x.com/GBitcoin2
 
-**DYOR Token Explorer**
+**Development History**
 
-https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB
+https://github.com/GBitcoin2/GBTC/commits/main
 
 </div>
 
-## 12 — Updates & Announcements
+---
 
-Official project updates, documentation revisions, and development changes are intended to be communicated through the project's official channels.
+## UPDATES & ANNOUNCEMENTS
 
-- **Project Announcements:** [Official X Account](https://x.com/GBitcoin2)
-- **Development History:** [Repository Changes](https://github.com/GBitcoin2/GBTC/commits/main)
-- **Project Documentation:** [Official GitHub Repository](https://github.com/GBitcoin2/GBTC)
+Follow the official channels for project announcements, documentation updates, and development changes.
 
-## 13 — Disclaimer
+- [Official announcements on X](https://x.com/GBitcoin2)
+- [GitHub development history](https://github.com/GBitcoin2/GBTC/commits/main)
+- [Official project repository](https://github.com/GBitcoin2/GBTC)
 
-GBTC is an evolving digital asset ecosystem. This repository describes the project's identity, token structure, and intended development direction.
+---
+
+## DISCLAIMER
+
+GBTC is an evolving digital asset ecosystem. This repository presents the project's identity, token structure, and intended development direction.
 
 Digital assets involve significant risks, including market volatility, liquidity risks, technical vulnerabilities, and potential loss of capital.
 
 Nothing in this repository constitutes financial, investment, or trading advice, or a guarantee of future performance.
 
-References to planned infrastructure, integrations, services, and network expansion describe development objectives and should not be interpreted as confirmation that such capabilities are currently operational.
+Descriptions of planned infrastructure, integrations, services, and network expansion represent development objectives and do not confirm that these capabilities are currently operational.
 
-Users should conduct independent research and independently assess all risks before interacting with digital assets or blockchain-based applications.
+Users should conduct independent research and assess all risks before interacting with digital assets or blockchain-based applications.
 
 ---
 
 <div align="center">
 
+<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="76" alt="GBTC">
+
+# GBTC
+
+### GBitcoin
+
+**ONE CORE. MULTIPLE ASSETS. SHARED INFRASTRUCTURE.**
+
+*Building the foundations of a connected digital asset ecosystem.*
+
 <br>
 
-<img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="72" alt="GBTC">
-
-# GBTC — GBitcoin
-
-**ONE CORE. MULTIPLE ASSETS. INTERCONNECTED LIQUIDITY. SHARED GROWTH.**
-
-Building the foundations of a connected digital asset ecosystem.
-
-<br>
-
-[🌐 Official Website](https://gbitcoin2.github.io/GBTC/) · [𝕏 Official X](https://x.com/GBitcoin2) · [DYOR Explorer](https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB)
+[Website](https://gbitcoin2.github.io/GBTC/) · [X](https://x.com/GBitcoin2) · [DYOR](https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB)
 
 <br>
 
