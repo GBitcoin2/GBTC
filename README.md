@@ -11,7 +11,7 @@
 
 **ONE CORE. MULTIPLE ASSETS. INTERCONNECTED LIQUIDITY. SHARED GROWTH.**
 
-A multi-asset ecosystem vision built around a central digital asset, connecting liquidity infrastructure, independent projects, and digital markets through a unified framework.
+A multi-asset ecosystem vision built around a core digital asset, connecting liquidity infrastructure, independent projects, and digital markets through a unified framework.
 
 <br>
 
@@ -20,7 +20,7 @@ A multi-asset ecosystem vision built around a central digital asset, connecting 
 </a>
 
 <a href="https://x.com/GBitcoin2">
-<img src="https://img.shields.io/badge/𝕏_ OFFICIAL_X-Follow%20GBTC-111111?style=for-the-badge&logo=x&logoColor=white" alt="GBTC Official X">
+<img src="https://img.shields.io/badge/%F0%9D%95%8F_OFFICIAL_X-Follow%20GBTC-111111?style=for-the-badge&logo=x&logoColor=white" alt="GBTC Official X">
 </a>
 
 <a href="https://dyor.io/token/EQBGazkIch4zHGmUsU-YHHTtC860ZjmAb6GKGQpjG5lZ4kJB">
@@ -52,11 +52,11 @@ A multi-asset ecosystem vision built around a central digital asset, connecting 
 
 ## 01 — Introduction
 
-**GBTC (GBitcoin)** is a multi-asset ecosystem initiative designed around a central digital asset and an interconnected liquidity framework.
+**GBTC (GBitcoin)** is a multi-asset ecosystem initiative designed around a core digital asset and an interconnected liquidity framework.
 
 The project envisions an infrastructure where multiple digital assets, independent blockchain projects, and Web3 services can establish relationships through liquidity pools, trading pairs, and integrated markets.
 
-At the center of this vision is **GBTC**, intended to serve as the core asset around which liquidity relationships, asset connectivity, and ecosystem integrations can develop.
+At the heart of this vision is **GBTC**, intended to serve as the core asset around which liquidity relationships, asset connectivity, and ecosystem integrations can develop.
 
 GBTC is built on the idea that digital assets can retain their individual identities while participating in a broader and more connected environment.
 
@@ -76,7 +76,7 @@ GBTC explores a different approach: a shared infrastructure where multiple asset
 
 The long-term vision is centered on:
 
-- A central ecosystem asset.
+- A core ecosystem asset.
 - Multiple connected digital assets.
 - Shared liquidity infrastructure.
 - Integrated trading markets.
@@ -90,11 +90,11 @@ The objective is to develop a framework in which connectivity becomes a foundati
 
 The GBTC vision is structured around four complementary pillars.
 
-### ◈ 01. CENTRAL ASSET
+### ◈ 01. CORE ASSET
 
-**GBTC — The Core**
+**GBTC — The Ecosystem Core**
 
-GBTC is designed to serve as the central asset of the ecosystem, providing a common foundation around which liquidity relationships, trading pairs, and integrations can develop.
+GBTC is designed to serve as the core asset of the ecosystem, providing a common foundation around which liquidity relationships, trading pairs, and integrations can develop.
 
 ### ◈ 02. INTERCONNECTED LIQUIDITY
 
@@ -122,7 +122,7 @@ A broader development direction focused on exploring additional digital services
 
 **GBTC**
 
-*Central Ecosystem Asset*
+*Core Ecosystem Asset*
 
 ↓
 
@@ -158,7 +158,7 @@ It represents the project's development direction, not a claim that every compon
 
 | Area | Direction |
 |---|---|
-| Central Asset | Establishing GBTC as the ecosystem's core asset |
+| Core Asset | Establishing GBTC as the ecosystem's core asset |
 | Liquidity | Developing interconnected liquidity relationships |
 | Trading | Supporting asset connectivity through trading pairs |
 | Integration | Exploring participation from independent projects |
@@ -290,7 +290,7 @@ Additional documentation may be added as the project develops.
 <br><br>
 
 <a href="https://x.com/GBitcoin2">
-<img src="https://img.shields.io/badge/𝕏-Official%20X%20Account-111111?style=for-the-badge&logo=x&logoColor=white" alt="Official X">
+<img src="https://img.shields.io/badge/%F0%9D%95%8F-Official%20X%20Account-111111?style=for-the-badge&logo=x&logoColor=white" alt="Official X">
 </a>
 
 <br><br>
