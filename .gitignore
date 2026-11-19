@@ -1,3 +1,204 @@
+
+# ============================================================
+# GBTC — GBitcoin
+# Unified Projects Protocol
+# Git Ignore Configuration
+# ============================================================
+
+# ------------------------------------------------------------
+# 01. Environment Variables & Secrets
+# ------------------------------------------------------------
+
+.env
+.env.*
+!.env.example
+!.env.sample
+
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+secrets/
+credentials/
+private-keys/
+
+
+# ------------------------------------------------------------
+# 02. Operating System Files
+# ------------------------------------------------------------
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+
+
+# ------------------------------------------------------------
+# 03. IDEs & Development Editors
+# ------------------------------------------------------------
+
+.idea/
+.vscode/
+*.sublime-workspace
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+
+
+# ------------------------------------------------------------
+# 04. Dependencies & Package Managers
+# ------------------------------------------------------------
+
+node_modules/
+bower_components/
+jspm_packages/
+
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+
+# ------------------------------------------------------------
+# 05. Build Outputs & Generated Files
+# ------------------------------------------------------------
+
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.turbo/
+.next/
+.nuxt/
+.svelte-kit/
+.angular/
+
+
+# ------------------------------------------------------------
+# 06. Logs & Diagnostic Files
+# ------------------------------------------------------------
+
+*.log
+logs/
+log/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+server.log
+debug.log
+
+
+# ------------------------------------------------------------
+# 07. Backups & Temporary Files
+# ------------------------------------------------------------
+
 *.backup
 *.backup-*
-server.log
+*.bak
+*.old
+*.tmp
+*.temp
+*.swp
+*.swo
+*.orig
+*.rej
+
+/backup/
+/backups/
+/tmp/
+/temp/
+
+
+# ------------------------------------------------------------
+# 08. Test Artifacts & Reports
+# ------------------------------------------------------------
+
+test-results/
+playwright-report/
+cypress/videos/
+cypress/screenshots/
+*.lcov
+
+
+# ------------------------------------------------------------
+# 09. Local Databases & Runtime Data
+# ------------------------------------------------------------
+
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.pid
+*.seed
+*.pid.lock
+
+
+# ------------------------------------------------------------
+# 10. Python & Automation Cache
+# ------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+
+
+# ------------------------------------------------------------
+# 11. Local Configuration & Machine-Specific Files
+# ------------------------------------------------------------
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.DS_Store
+*.code-workspace
+
+
+# ------------------------------------------------------------
+# 12. Deployment & Platform Temporary Files
+# ------------------------------------------------------------
+
+.vercel/
+.netlify/
+.firebase/
+.serverless/
+.wrangler/
+
+
+# ------------------------------------------------------------
+# 13. Archive & Package Artifacts
+# ------------------------------------------------------------
+
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+
+# ============================================================
+# End of GBTC Git Ignore Configuration
+# ============================================================
