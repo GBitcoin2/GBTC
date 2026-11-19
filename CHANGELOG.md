@@ -1,45 +1,56 @@
 
-# Changelog
+<div align="center">
+  <img src="https://cache.tonapi.io/imgproxy/Y2gJ4Q158Ycvxx1GQkNjEqqYgg0J3eZJCWzjhttbliA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTc5MzgyMTIxNS83OTQ1NjMwNi5wbmc.webp" width="105" alt="GBTC Logo">
 
-All notable changes to GBitcoin (GBTC) are documented in this file.
+  # Security
 
-This changelog follows a structured versioning approach to make project updates easier to track and understand.
+  **Security Principles & Technical Responsibility**
 
-## [1.0.0] - Initial Documentation Release
-
-### Added
-- Introduced the official GBitcoin (GBTC) project documentation.
-- Added the project overview and core ecosystem concept.
-- Added security reporting guidelines through `SECURITY.md`.
-- Added contribution guidelines through `CONTRIBUTING.md`.
-- Established community participation principles through `CODE_OF_CONDUCT.md`.
-- Documented project governance principles through `GOVERNANCE.md`.
-- Published the initial project whitepaper through `WHITEPAPER.md`.
-- Added general risk and responsibility disclosures through `DISCLAIMER.md`.
-- Added repository ignore rules through `.gitignore`.
-
-### Documentation
-- Defined the project's multi-project ecosystem direction.
-- Documented the relationship between independent projects, liquidity pools, and trading pairs.
-- Recorded the official GBitcoin identity and GRAM network information.
-- Improved consistency across project documentation.
-
-## Future Updates
-
-Future entries will document verified changes to:
-
-- Project documentation and technical specifications.
-- Website structure and functionality.
-- Ecosystem infrastructure.
-- Security practices.
-- Integrations and supported services.
-- Development milestones and releases.
-
-Only completed and verifiable changes should be recorded in this changelog.
+  *GBitcoin — GBTC*
+</div>
 
 ---
 
-**Project:** GBitcoin (GBTC)  
-**Network:** GRAM  
-**Official Website:** https://gbitcoin2.github.io/GBTC/  
-**Official X:** https://x.com/GBitcoin2
+## Security Philosophy
+
+At GBitcoin (GBTC), security is an important part of building a reliable digital asset ecosystem.
+
+Our approach emphasizes careful development, technical awareness, and responsible consideration of the systems and components associated with the project.
+
+## Technical Reliability
+
+The reliability of a digital ecosystem depends on the quality of its underlying components and the way they interact.
+
+GBTC recognizes the importance of maintaining consistency across its technical resources and considering potential risks when introducing changes or new integrations.
+
+## User Protection
+
+Safe interaction with digital assets requires attention from both project developers and users.
+
+Users should verify official project information, confirm token contract details, and review transaction data before proceeding.
+
+Wallet credentials, private keys, and recovery phrases should always remain confidential.
+
+## Risk Awareness
+
+Blockchain technology and digital asset systems involve technical and operational risks.
+
+GBTC encourages informed participation and recognizes the importance of understanding the potential consequences of blockchain transactions and interactions with external services.
+
+## Continuous Development
+
+Security is not a fixed destination. It requires ongoing attention as technology evolves and project requirements change.
+
+GBTC aims to maintain a responsible approach to technical improvements, with security considerations remaining part of its long-term development direction.
+
+---
+
+<div align="center">
+
+  **Built with Responsibility. Developed with Care.**
+
+  **GBITCOIN (GBTC)**
+
+  [Official Website](https://gbitcoin2.github.io/GBTC/) · [GitHub Repository](https://github.com/GBitcoin2/GBTC) · [Official X](https://x.com/GBitcoin2)
+
+</div>
